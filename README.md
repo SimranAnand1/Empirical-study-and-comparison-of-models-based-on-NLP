@@ -4,3 +4,5 @@ It incorporates various Machine Learning models and algorithms to perform an emp
 The Machine Learning and Deep Learning models used in this project are: LSTM (Long Short Term Memory), Back Propagation Neural Network, Random Forests Classifier, Support Vector Machine(SVM), Logistic Regression, Naive Bayes Classifier and Count Vectorizer models.
 NLP's python libraries like TextBlob and vader sentiment are leveraged to perform sentiment anaysis of the collected preprocessed tweets data.
 Neural Network libraries such as Keras and Tensor Flow are used for Deep learning techniques to evaluate the model's performance for apt classification of texts and tweets.
+
+Link to my research paper: https://journals.resaim.com/ijmdes/article/view/1611
